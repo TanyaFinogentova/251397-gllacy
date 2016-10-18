@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Tanya Finogentova](https://up.htmlacademy.ru/htmlcss/15/user/251397).
-* Наставник: `Альбина Токарчук`.
+* Наставник: [Альбина Токарчук](https://htmlacademy.ru/profile/id167491).
 
 ---
 
